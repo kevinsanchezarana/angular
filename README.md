@@ -1,3 +1,14 @@
+# Docker
+
+`docker-compose up --build`
+
+`http://localhost:4000/` --> En navegador
+
+Solo imagen:
+
+`docker build -t my-project .
+docker run my-project -p 127.0.0.1:4000:80 --restart=always`
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
