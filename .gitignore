@@ -46,4 +46,4 @@ testem.log
 Thumbs.db
 
 #Nginx
-nginx.conf
+#nginx.conf
